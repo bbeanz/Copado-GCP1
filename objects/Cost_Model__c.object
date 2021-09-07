@@ -212,6 +212,13 @@
     <label>Cost Model</label>
     <listViews>
         <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>CurrencyField1__c</columns>
+        <columns>CurrencyField2__c</columns>
+        <columns>TextField1__c</columns>
+        <columns>TextField2__c</columns>
+        <columns>OBJECT_ID</columns>
+        <columns>External_Key__c</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
